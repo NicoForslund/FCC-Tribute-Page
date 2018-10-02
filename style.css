@@ -1,0 +1,56 @@
+h1 {
+    font-size:80px; 
+    
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+   
+}
+.Nokia-1865- {
+    font-size: 30px;
+}
+
+#main {
+    border: 0px solid;
+    margin: 30px auto;
+    padding: 15px;
+    border-radius: 5px;
+    background: rgb(182, 182, 184);
+    text-align: center;
+}
+
+div {
+    font-family: 'K2D', sans-serif;
+
+}
+
+.wiki-link {
+    color:white;
+    font-family: 'Anton', sans-serif;
+}
+
+.li-element {
+    flex:auto;
+    align-self:center;
+}
+
+body {
+    background-color: black;
+}
+
+li {
+    margin: 10px;
+
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 20px;
+    
+}
